@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruelGame", "TruelGame\TruelGame.csproj", "{6958211B-0328-40BF-8595-CBE6E7DE2150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6958211B-0328-40BF-8595-CBE6E7DE2150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6958211B-0328-40BF-8595-CBE6E7DE2150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6958211B-0328-40BF-8595-CBE6E7DE2150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6958211B-0328-40BF-8595-CBE6E7DE2150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46213477-06BF-4884-B1AC-D2932ECC3DB7}
+	EndGlobalSection
+EndGlobal
