@@ -13,4 +13,4 @@ If you ask most people what A’s strategy should be when all 3 duelists are ali
 1) Always fire at the most accurate duelist (C).
 2) Fire randomly (since you are the least accurate it doesn’t matter).
 To this we’ll add what seems like a bad option:
-3) Fire your shot into the ground, wasting it.
+3) When there are more than two players in the game, fire your shot into the ground, wasting it, otherwise fire on the remaining player.
