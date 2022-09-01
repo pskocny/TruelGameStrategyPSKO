@@ -1,4 +1,4 @@
-
+test1
 # The Truel Problem
 Console application to analyze the effectiveness of different strategies of **Truel game**. 
 
